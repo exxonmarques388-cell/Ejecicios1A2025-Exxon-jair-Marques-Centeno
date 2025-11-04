@@ -1,4 +1,4 @@
-// Algoritmo act5 en JavaScript
+// Algoritmo act5 en JavaScript|||
 const prompt = require("prompt-sync")();
 // Medidas en sistema métrico
 let busto_cm = 89;
